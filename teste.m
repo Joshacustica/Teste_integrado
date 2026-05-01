@@ -6,3 +6,5 @@ y=x.^2;
 plot(x,y)
 
 %bom dia
+
+% escrever qualquer coisa
